@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Scala!"
 date:   2020-08-15 15:15:33 -0500
 categories: scala cats
+tags: ["scala" "cats" "cats-effect"]
 ---
 Checking some *markups* and **highlights**.
 
