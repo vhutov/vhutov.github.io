@@ -2,7 +2,7 @@
 title:       λ everyday
 email:       vladyslav.hutov@gmail.com
 author:      Vladyslav Hutov
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Blog on Functional Programming, mainly Scala"
 baseurl:     ""
 url:         "https://vhutov.github.io/"
 date_format: "%b %-d, %Y"
@@ -15,7 +15,7 @@ google_verification: h2ckfsWCnVVQ6TGN8DsGt1ODBpdDjfm1mhYWlTRgl2A
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
 google_analytics:
-google_tag_manager:
+google_tag_manager: GTM-KXCW6VV
 # Bing services
 bing_verification:
 
