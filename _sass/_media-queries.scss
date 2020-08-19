@@ -54,6 +54,10 @@
   html {
     font-size: 20px;
   }
+
+  .posts .post {
+    text-align: initial;
+  }
 }
 
 @media screen and (min-width: $viewport-large + 14) {
